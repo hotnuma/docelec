@@ -33,6 +33,14 @@
 
 
 
+#### Display
+
+* LCD I2C
+    
+    https://www.makerguides.com/character-i2c-lcd-arduino-tutorial/  
+
+
+
 #### Registers
 
 * Port Register Control (Electronoobs)
