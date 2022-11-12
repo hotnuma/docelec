@@ -3,6 +3,10 @@
 
 ---
 
+https://forum.arduino.cc/t/averaging-a-fluctuating-number-of-sensor-values-over-time/1043838  
+https://www.arduino.cc/reference/en/libraries/movingavg/  
+https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/  
+
 
 
 #### Projects
