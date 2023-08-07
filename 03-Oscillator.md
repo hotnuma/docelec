@@ -1,9 +1,10 @@
+<link href="style.css" rel="stylesheet"></link>
 
 **[ [Home](00-Home.html) | [Arduino](01-Arduino.html) | [Counter](02-Counter.html) | Oscillator | [Temperature](04-Temperature.html) | [Transistor](05-Transistor.html) | [Other](06-Other.html) ]**
 
+## Oscillator
+
 ---
-
-
 
 #### Reference
 
