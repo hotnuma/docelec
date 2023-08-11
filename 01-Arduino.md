@@ -16,7 +16,7 @@
 
 * Pro Mini
     
-    [https://adduino.com/pinout](https://adduino.com/wp-content/uploads/2020/12/arduino-pro-mini-pinout-pins-atmega328p-complete-pin-diagram-1024x470.png)  
+    [https://cdn.compacttool.ru/pinout](https://cdn.compacttool.ru/images/docs/5bc057bb257ea.jpg)  
     [https://www.arduino.cc/schematic](https://www.arduino.cc/en/uploads/Main/Arduino-Pro-Mini-schematic.pdf)
 
 * ATmega328P Datasheet
