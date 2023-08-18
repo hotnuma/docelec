@@ -8,26 +8,12 @@
 
 #### Reference
 
-* Oscillator drift
-    
-    [https://www.electronics-tutorials.com/oscillators/oscillator](https://www.electronics-tutorials.com/oscillators/oscillator-drift.htm)
-
-* CMOS Oscillators
-
-    https://www.onsemi.com/pub/collateral/and9983-d.pdf  
-
 * Use Analog Techniques To Measure Capacitance
     
     [https://www.electronicdesign.com/technologies/analog/article](https://www.electronicdesign.com/technologies/analog/article/21796004/use-analog-techniques-to-measure-capacitance-in-capacitive-sensors)
 
-* 555 Astable Oscillator
-    
-    [https://www.electronics-tutorials.ws/waveforms/...](https://www.electronics-tutorials.ws/waveforms/555_oscillator.html)  
-    https://ohmslawcalculator.com/555-astable-calculator  
 
-
-
-#### Relaxation Oscillator
+#### RC Oscillator
 
 * Examples
     
@@ -41,6 +27,10 @@
     
     [http://www.seekic.com/circuit_diagram/Electrical_Equipment_C](http://www.seekic.com/circuit_diagram/Electrical_Equipment_Circuit/Low_frequency_precision_RC_oscillator.html)
 
+* 555 Astable
+    
+    [https://www.electronics-tutorials.ws/waveforms/...](https://www.electronics-tutorials.ws/waveforms/555_oscillator.html)  
+    https://ohmslawcalculator.com/555-astable-calculator  
 
 
 #### Crystal Oscillator
@@ -71,7 +61,6 @@
     https://electronics.stackexchange.com/questions/547694/  
 
 
-
 #### Pierce Oscillator
 
 * Examples
@@ -80,7 +69,6 @@
     [https://www.eevblog.com/forum/beginners/making-a-crystal-osc](https://www.eevblog.com/forum/beginners/making-a-crystal-oscilator/)  
     [https://www.eevblog.com/forum/beginners/making-a-crystal-osc](https://www.eevblog.com/forum/beginners/making-a-crystal-oscilator/?action=dlattach;attach=362585;image)  
     [http://www.next.gr/circuits/crystal-oscillator-discreet-pier](http://www.next.gr/circuits/crystal-oscillator-discreet-pierce-oscillator-l32460.html)  
-
 
 
 #### Colpitts
@@ -108,7 +96,6 @@
     https://franck.aquarelles.org/?p=242  
 
 
-
 #### Hartley
     
 * Examples
@@ -125,5 +112,16 @@
 
     [https://wiki.analog.com/university/courses/electronics/comms](https://wiki.analog.com/university/courses/electronics/comms-lab-hartley-osc?rev=1553685232)  
     https://learnabout-electronics.org/Oscillators/osc22.php  
+
+
+<!--
+* Oscillator drift
+    
+    [https://www.electronics-tutorials.com/oscillators/oscillator](https://www.electronics-tutorials.com/oscillators/oscillator-drift.htm)
+
+* CMOS Oscillators
+
+    https://www.onsemi.com/pub/collateral/and9983-d.pdf  
+-->
 
 
