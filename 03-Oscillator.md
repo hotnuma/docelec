@@ -8,9 +8,13 @@
 
 #### Reference
 
+* Tutorials
+    
+    https://www.electronics-tutorials.com/oscillators/oscillators.htm  
+    
 * Use Analog Techniques To Measure Capacitance
     
-    [https://www.electronicdesign.com/technologies/analog/article](https://www.electronicdesign.com/technologies/analog/article/21796004/use-analog-techniques-to-measure-capacitance-in-capacitive-sensors)
+    [https://www.electronicdesign.com/technologies/analog/article](https://www.electronicdesign.com/technologies/analog/article/21796004/use-analog-techniques-to-measure-capacitance-in-capacitive-sensors)  
 
 
 #### RC Oscillator
@@ -115,10 +119,6 @@
 
 
 <!--
-* Oscillator drift
-    
-    [https://www.electronics-tutorials.com/oscillators/oscillator](https://www.electronics-tutorials.com/oscillators/oscillator-drift.htm)
-
 * CMOS Oscillators
 
     https://www.onsemi.com/pub/collateral/and9983-d.pdf  
