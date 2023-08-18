@@ -10,17 +10,17 @@
 
 * Parts
     
-    https://www.amazon.fr/  
-    https://www.az-delivery.de/fr  
     https://www.gotronic.fr/  
+    https://www.reichelt.com/  
+    https://www.distronic.fr/  
+    https://www.az-delivery.de/fr  
+    https://www.amazon.fr/  
+    
     https://distri-compo.com/  
     https://www.komposantselectronik.fr/prestashop/  
     https://csd-electronics.de/  
     https://eleshop.fr/test-mesure.html  
-    
-    https://www.reichelt.com/  
     https://www.donberg.ie/  
-    https://www.distronic.fr/  
     https://electronicloisirs.com/  
     https://www.tme.eu/fr/en/  
 

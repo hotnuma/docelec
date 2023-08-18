@@ -8,10 +8,6 @@
 
 #### Reference
 
-* Tutorials
-    
-    https://www.electronics-tutorials.com/oscillators/oscillators.htm  
-    
 * Use Analog Techniques To Measure Capacitance
     
     [https://www.electronicdesign.com/technologies/analog/article](https://www.electronicdesign.com/technologies/analog/article/21796004/use-analog-techniques-to-measure-capacitance-in-capacitive-sensors)  
@@ -84,7 +80,7 @@
 * Common collector
     
     [https://41j.com/blog/2014/12/npn-common-collector-colpitts-o](https://41j.com/blog/2014/12/npn-common-collector-colpitts-oscillator-notes/)  
-    https://www.youtube.com/watch?v=blalAktxFoI (w2aew 123)  
+    https://www.newioit.com.au/archives/48  
 
 * Common emitter
     
@@ -119,9 +115,9 @@
 
 
 <!--
-* CMOS Oscillators
-
+    https://www.electronics-tutorials.com/oscillators/oscillators.htm  
     https://www.onsemi.com/pub/collateral/and9983-d.pdf  
+    https://www.youtube.com/watch?v=blalAktxFoI (w2aew 123)  
 -->
 
 
