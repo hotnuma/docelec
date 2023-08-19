@@ -17,15 +17,8 @@
 
 * Examples
     
-    http://www.evalidate.in/lab3/pages/RO/RO_T.html  
-    https://www.electrical4u.com/relaxation-oscillator/  
-    http://www.interfacebus.com/voltage-comparator-opamp-design.html  
-    [https://www.ti.com/lit/an/snoa998/snoa998.pdf?ts=16653292898](https://www.ti.com/lit/an/snoa998/snoa998.pdf?ts=1665329289834&ref_url=https%253A%252F%252Fwww.google.com%252F)  
+    [http://www.seekic.com/circuit_diagram/Electrical_Equipment_C](http://www.seekic.com/circuit_diagram/Electrical_Equipment_Circuit/Low_frequency_precision_RC_oscillator.html)  
     https://iopscience.iop.org/article/10.1088/1742-6596/1380/1/012074/pdf  
-
-* Precision RC oscillator
-    
-    [http://www.seekic.com/circuit_diagram/Electrical_Equipment_C](http://www.seekic.com/circuit_diagram/Electrical_Equipment_Circuit/Low_frequency_precision_RC_oscillator.html)
 
 * 555 Astable
     
@@ -115,6 +108,10 @@
 
 
 <!--
+    http://www.evalidate.in/lab3/pages/RO/RO_T.html  
+    https://www.electrical4u.com/relaxation-oscillator/  
+    http://www.interfacebus.com/voltage-comparator-opamp-design.html  
+    [https://www.ti.com/lit/an/snoa998/snoa998.pdf?ts=16653292898](https://www.ti.com/lit/an/snoa998/snoa998.pdf?ts=1665329289834&ref_url=https%253A%252F%252Fwww.google.com%252F)  
     https://www.electronics-tutorials.com/oscillators/oscillators.htm  
     https://www.onsemi.com/pub/collateral/and9983-d.pdf  
     https://www.youtube.com/watch?v=blalAktxFoI (w2aew 123)  
