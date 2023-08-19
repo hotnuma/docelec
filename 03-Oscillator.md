@@ -17,6 +17,7 @@
 
 * Examples
     
+    https://www.youtube.com/watch?v=QLQrLO0zvDI  
     [http://www.seekic.com/circuit_diagram/Electrical_Equipment_C](http://www.seekic.com/circuit_diagram/Electrical_Equipment_Circuit/Low_frequency_precision_RC_oscillator.html)  
     https://iopscience.iop.org/article/10.1088/1742-6596/1380/1/012074/pdf  
 
