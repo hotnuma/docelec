@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-**[ [Home](00-Home.html) | Arduino | [Counter](02-Counter.html) | [Oscillator](03-Oscillator.html) | [Temperature](04-Temperature.html) | [Transistor](05-Transistor.html) | [Other](06-Other.html) ]**
+**[ [Home](00-Home.html) | Arduino | [Oscillator](02-Oscillator.html) | [Counter](03-Counter.html) | [Temperature](04-Temperature.html) | [Meter](05-Meter.html) | [Transistor](06-Transistor.html) | [Other](07-Other.html) ]**
 
 ## Arduino
 
@@ -33,13 +33,11 @@
     [https://create.arduino.cc/projecthub/akshayjoseph666/adding-](https://create.arduino.cc/projecthub/akshayjoseph666/adding-library-in-arduino-ide-7deb01)  
 
 
-
 #### Display
 
 * LCD I2C
     
     https://www.makerguides.com/character-i2c-lcd-arduino-tutorial/  
-
 
 
 #### Registers
@@ -48,7 +46,6 @@
     
     https://www.youtube.com/watch?v=UhTRrjYXqPU  
     https://electronoobs.com/eng_arduino_tut12.php  
-
 
 
 #### Interrupts
@@ -65,7 +62,6 @@
 * Timer Interrupts (SparkFun)
     
     https://www.youtube.com/watch?v=2kr5A350H7E  
-
 
 
 #### Button
@@ -89,7 +85,6 @@
     https://github.com/JChristensen/JC_Button  
 
 
-
 #### ADC
     
 * Arduino
@@ -106,7 +101,6 @@
     https://www.best-microcontroller-projects.com/ads1115.html  
 
 
-
 #### Filtering
 
 * Moving average filter
@@ -114,7 +108,6 @@
     [https://maker.pro/arduino/tutorial/...](https://maker.pro/arduino/tutorial/how-to-clean-up-noisy-sensor-data-with-a-moving-average-filter)  
     [https://docs.arduino.cc/built-in-examples/...](https://docs.arduino.cc/built-in-examples/analog/Smoothing)  
     [https://www.megunolink.com/articles/...](https://www.megunolink.com/articles/coding/3-methods-filter-noisy-arduino-measurements/)  
-
 
 
 #### PID Controler
@@ -129,7 +122,6 @@
     https://playground.arduino.cc/Code/PIDLibrary/  
     https://github.com/br3ttb/Arduino-PID-Library/  
     https://github.com/PowerBroker2/ArduPID  
-
 
 
 #### Other

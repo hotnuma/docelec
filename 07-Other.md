@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-**[ [Home](00-Home.html) | [Arduino](01-Arduino.html) | [Counter](02-Counter.html) | [Oscillator](03-Oscillator.html) | [Temperature](04-Temperature.html) | [Transistor](05-Transistor.html) | Other ]**
+**[ [Home](00-Home.html) | [Arduino](01-Arduino.html) | Oscillator | [Counter](03-Counter.html) | [Temperature](04-Temperature.html) | [Meter](05-Meter.html) | [Transistor](06-Transistor.html) | Other ]**
 
 ## Other
 
@@ -158,7 +158,13 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
 
 
 
+
+
 <!--
+
+    https://www.electrical4u.com/capacitance-meter/  
+    http://electronics-diy.com/capacitance-meter.php  
+
 
 ## Basics
 

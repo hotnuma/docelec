@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-**[ [Home](00-Home.html) | [Arduino](01-Arduino.html) | [Counter](02-Counter.html) | [Oscillator](03-Oscillator.html) | [Temperature](04-Temperature.html) | Transistor | [Other](06-Other.html) ]**
+**[ [Home](00-Home.html) | [Arduino](01-Arduino.html) | [Oscillator](02-Oscillator.html) | [Counter](03-Counter.html) | [Temperature](04-Temperature.html) | [Meter](05-Meter.html) | Transistor | [Other](07-Other.html) ]**
 
 ## Transistor
 
