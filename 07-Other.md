@@ -11,8 +11,14 @@ https://www.arduino.cc/reference/en/libraries/movingavg/
 https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/  
 
 
-
 #### Projects
+
+* GPS
+
+    https://github.com/jumejume1/Open-smart-GT-7U-GPS  
+    https://github.com/mikalhart/TinyGPSPlus  
+    https://manuals.plus/fr/goouuu/goouuu-tech-gt-u7-gps-modules  
+    [https://forum.arduino.cc/t/module-gps-goouuu-tech-gt-u7/9617](https://forum.arduino.cc/t/module-gps-goouuu-tech-gt-u7/961733)  
 
 * Electronic Component Tester
     
@@ -60,7 +66,6 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     https://www.youtube.com/watch?v=Ff5xOENID7w  
 
 
-
 #### Frequency Counter
 
 * FreqCount Library
@@ -89,13 +94,11 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     https://forum.arduino.cc/t/16-bit-counter-chip/332033/2  
 
 
-
 #### Signal Generators
 
 * AD9833 Signal Generator
     
     [https://www.teachmemicro.com/arduino-ad9833-signal-generator](https://www.teachmemicro.com/arduino-ad9833-signal-generator/)
-
 
 
 #### Radio receivers
@@ -113,7 +116,6 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     https://www.youtube.com/watch?v=RBNEjY3JsvQ  
 
 
-
 #### Prescalers
 
 * PLJ-8LED / MB506
@@ -127,7 +129,6 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
 * SDA2101
     
     [https://www.distronic.fr/composants-actifs/1212-circuit-inte](https://www.distronic.fr/composants-actifs/1212-circuit-integre-dil8-sda2101.html)  
-
 
 
 #### Other
@@ -162,11 +163,11 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
 
 <!--
 
+    https://eleshop.fr/test-mesure.html  
+    https://www.tme.eu/fr/en/  
     https://www.electrical4u.com/capacitance-meter/  
     http://electronics-diy.com/capacitance-meter.php  
 
-
-## Basics
 
 #### Parts
 
@@ -189,7 +190,6 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     https://forum.arduino.cc/t/ds18b20-stop-work-after-75-celsius/672216/3  
     https://forums.adafruit.com/viewtopic.php?t=194165  
     https://forums.adafruit.com/viewtopic.php?p=837610  
-
 
 
 ## Arduino
@@ -223,13 +223,11 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     [https://npk-stn.ru/2019/07/19/simple_programming_attiny414_v](https://npk-stn.ru/2019/07/19/simple_programming_attiny414_via_updi/?lang=en)
 
 
-
 #### Rotary Encoder
 
 * Examples
     
     https://www.teachmemicro.com/using-rotary-encoders-with-arduino/  
-
 
 
 #### PWM
@@ -247,13 +245,11 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     [https://www.codrey.com/arduino-projects/arduino-advanced-16-](https://www.codrey.com/arduino-projects/arduino-advanced-16-bit-pwm/)
 
 
-
 #### Read/write EEPROM
 
 * Examples
     
     https://www.youtube.com/watch?v=Sus96TzvjT4 (Electronoobs)  
-
 
 
 #### Data exchange
@@ -267,13 +263,11 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     https://www.ladyada.net/learn/arduino/lesson4.html  
 
 
-
 #### Other
 
 * Utiliser un écran OLED avec U8g2
     
     https://www.youtube.com/watch?v=WITPI79V32k  
-
 
 
 ## Oscillator
@@ -290,7 +284,6 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     
     [https://www.edaboard.com/threads/interesting-tcxo...](https://www.edaboard.com/threads/interesting-tcxo-32768-hz-oscillator.367294/)  
     https://www.edaboard.com/attachments/32768-hz-jpg.138311/  
-
 
 
 ## Temperature
@@ -320,7 +313,6 @@ https://en.wikipedia.org/wiki/List_of_thermal_conductivities
     Air : 0.025-0.031  
 
 
-
 #### Calorimetry
 
 * Calorimétrie
@@ -340,7 +332,6 @@ https://en.wikipedia.org/wiki/List_of_thermal_conductivities
     [https://www.reddit.com/r/AskPhysics/comments/ajao9x/energy_r](https://www.reddit.com/r/AskPhysics/comments/ajao9x/energy_required_to_heat_up_100m%C2%B3_of_air_by_10c/)
 
 
-
 #### Sensors
 
 * Accuracy
@@ -353,7 +344,6 @@ https://en.wikipedia.org/wiki/List_of_thermal_conductivities
 * LM35, LM335 et LM34 with Arduino
     
     [https://www.raspberryme.com/guide-des-capteurs-de-temperatur](https://www.raspberryme.com/guide-des-capteurs-de-temperature-lm35-lm335-et-lm34-avec-arduino/)
-
 
 
 #### PID Controller

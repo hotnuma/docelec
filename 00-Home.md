@@ -17,18 +17,12 @@
     https://www.az-delivery.de/fr  
     https://www.amazon.fr/  
     
-    <!--
-    https://eleshop.fr/test-mesure.html  
-    https://www.tme.eu/fr/en/  
-    -->
-
 * Magazines
 
     https://www.abandonware-magazines.org/index.php  
     http://www.retronik.fr/  
     [https://archives.doctsf.com/documents/...](https://archives.doctsf.com/documents/index.php?num_serie=8)  
     http://jmb15.free.fr/index.htm  
-    
 
 
 #### Power supply & references
@@ -49,7 +43,6 @@
     [https://www.arrow.com/en/reference-designs/...](https://www.arrow.com/en/reference-designs/typical-application-for-lm317-adjustable-voltage-regulator-with-protection-diodes/1bac1a136587419faa7326197e788e71)  
 
 
-
 #### Comparators
 
 * LM311
@@ -57,7 +50,6 @@
     https://www.ti.com/lit/ug/tidu020a/tidu020a.pdf  
     http://www.learningaboutelectronics.com/images/LM311-pinout.png  
     https://circuitcellar.com/resources/comparator-hysteresis-2/  
-
 
 
 #### OP Amp
@@ -75,7 +67,6 @@
     https://www.youtube.com/watch?v=OlhN7ADpKds  
 
 
-
 #### Other
 
 * Standard LEDs voltage
@@ -85,12 +76,5 @@
 * Measure Output Impedance (w2aew 138)
     
     https://www.youtube.com/watch?v=ieAhBejHe2M  
-
-* GPS
-
-    https://github.com/jumejume1/Open-smart-GT-7U-GPS  
-    https://github.com/mikalhart/TinyGPSPlus  
-    https://manuals.plus/fr/goouuu/goouuu-tech-gt-u7-gps-modules  
-    [https://forum.arduino.cc/t/module-gps-goouuu-tech-gt-u7/9617](https://forum.arduino.cc/t/module-gps-goouuu-tech-gt-u7/961733)  
 
 
