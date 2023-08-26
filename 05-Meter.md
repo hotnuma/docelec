@@ -6,13 +6,6 @@
 
 ---
 
-#### Arduino
-
-* Time Constant
-    
-    https://docs.arduino.cc/tutorials/generic/capacitance-meter  
-
-
 #### 555 Timer
 
 * Examples
