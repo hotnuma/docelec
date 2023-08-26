@@ -168,6 +168,9 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     https://www.electrical4u.com/capacitance-meter/  
     http://electronics-diy.com/capacitance-meter.php  
 
+* Circuit Collection of the Programmable Unijunction Transistor
+    
+    [https://www.instructables.com/Circuit-Collection-of-the-Prog](https://www.instructables.com/Circuit-Collection-of-the-Programmable-Unijunction/)
 
 #### Parts
 

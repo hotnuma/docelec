@@ -44,7 +44,6 @@
     [https://www.nutsvolts.com/magazine/article/bipolar_8](https://www.nutsvolts.com/magazine/article/bipolar_transistor_cookbook_part_8)  
 
 
-
 #### Biasing
 
 * Bias point and the class of amplifier operation (w2aew 113)
@@ -63,8 +62,6 @@
     
     https://www.youtube.com/watch?v=wg0OqrUXDjI  
 
-
-
 * Polarisation du transistor bipolaire
     
     https://www.youtube.com/watch?v=Fg6v6M0Ne8M  
@@ -76,7 +73,6 @@
 * Polarisation des transistors BJT et FET
     
     [https://fr.wikibooks.org/wiki/%C3%89lectronique/Polarisation](https://fr.wikibooks.org/wiki/%C3%89lectronique/Polarisation_des_transistors_BJT_et_FET)  
-
 
 
 #### Common emitter
@@ -106,22 +102,14 @@
     https://electronics.stackexchange.com/questions/429900/  
 
 
-
 #### Common collector
 
 * The Emitter Follower (w2aew 356)
     
     https://www.youtube.com/watch?v=8f-nhjQ1jMk  
 
----
-
-
 
 #### Other
-
-* Circuit Collection of the Programmable Unijunction Transistor
-    
-    [https://www.instructables.com/Circuit-Collection-of-the-Prog](https://www.instructables.com/Circuit-Collection-of-the-Programmable-Unijunction/)
 
 * Two Transistor Amplifier Circuit
     
