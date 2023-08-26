@@ -11,23 +11,15 @@
 * Parts
     
     https://www.gotronic.fr/  
+    https://distri-compo.com/  
+    https://csd-electronics.de/  
     https://www.reichelt.com/  
-    https://www.distronic.fr/  
     https://www.az-delivery.de/fr  
     https://www.amazon.fr/  
     
-    https://distri-compo.com/  
-    https://www.komposantselectronik.fr/prestashop/  
-    https://csd-electronics.de/  
-    https://eleshop.fr/test-mesure.html  
-    https://www.donberg.ie/  
-    https://electronicloisirs.com/  
-    https://www.tme.eu/fr/en/  
-
     <!--
-    http://codelab.fr/177  
-    https://composant-electronique.fr/composants-electroniques
-    https://www.stquentin-radio.com/  
+    https://eleshop.fr/test-mesure.html  
+    https://www.tme.eu/fr/en/  
     -->
 
 * Magazines
