@@ -179,10 +179,6 @@ https://eleshop.fr/test-mesure.html
     
     [https://www.electronicdesign.com/technologies/analog/article](https://www.electronicdesign.com/technologies/analog/article/21796004/use-analog-techniques-to-measure-capacitance-in-capacitive-sensors)  
 
-* A Digital Capacitance Meter
-    
-    [https://www.nutsvolts.com/magazine/article/a_digital_capacit](https://www.nutsvolts.com/magazine/article/a_digital_capacitance_meter)
-
 * AVR LC Meter With Frequency Measurement
     
     [http://www.kerrywong.com/2010/10/16/avr-lc-meter-with-freque](http://www.kerrywong.com/2010/10/16/avr-lc-meter-with-frequency-measurement/)  
