@@ -6,13 +6,6 @@
 
 ---
 
-#### Reference
-
-* Use Analog Techniques To Measure Capacitance
-    
-    [https://www.electronicdesign.com/technologies/analog/article](https://www.electronicdesign.com/technologies/analog/article/21796004/use-analog-techniques-to-measure-capacitance-in-capacitive-sensors)  
-
-
 #### RC Oscillator
 
 * Examples
