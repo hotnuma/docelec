@@ -163,47 +163,33 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
 
 <!--
 
-    https://eleshop.fr/test-mesure.html  
-    https://www.tme.eu/fr/en/  
+https://eleshop.fr/test-mesure.html  
+
+* PPM Clock accuracy examples
+    
+    https://www.best-microcontroller-projects.com/ppm.html  
+
+* 555 Timer
+    
+    https://www.instructables.com/Capacitance-Meter/  
+    [https://www.instructables.com/Capacitance-meter-with-arduino](https://www.instructables.com/Capacitance-meter-with-arduino-and-555-timer/)
     https://www.electrical4u.com/capacitance-meter/  
-    http://electronics-diy.com/capacitance-meter.php  
+
+* A Digital Capacitance Meter
+    
+    [https://www.nutsvolts.com/magazine/article/a_digital_capacit](https://www.nutsvolts.com/magazine/article/a_digital_capacitance_meter)
+
+* AVR LC Meter With Frequency Measurement
+    
+    [http://www.kerrywong.com/2010/10/16/avr-lc-meter-with-freque](http://www.kerrywong.com/2010/10/16/avr-lc-meter-with-frequency-measurement/)  
 
 * Circuit Collection of the Programmable Unijunction Transistor
     
     [https://www.instructables.com/Circuit-Collection-of-the-Prog](https://www.instructables.com/Circuit-Collection-of-the-Programmable-Unijunction/)
 
-#### Parts
-
-* Aliexpress
-
-    https://fr.aliexpress.com/store/911187003  
-    https://fr.aliexpress.com/item/1005004217060651.html  
-    Hms Technology Limited Store https://fr.aliexpress.com/store/5869356?spm=a2g0o.detail.1000007.1.3f406262gIIkNg
-    
-* Fake parts
-    
-    [https://www.diyaudio.com/community/threads/my-transistors-or](https://www.diyaudio.com/community/threads/my-transistors-original-or-copy.82638/page-70)  
-    https://vintage-audio-laser.fr/viewtopic.php?t=3120  
-    [https://www.theregister.com/2022/03/18/eu_us_counterfeit_chi](https://www.theregister.com/2022/03/18/eu_us_counterfeit_chips/)  
-    https://sound-au.com/counterfeit.htm
-
-* Counterfeit DS18B20
-
-    https://github.com/cpetrich/counterfeit_DS18B20  
-    https://forum.arduino.cc/t/ds18b20-stop-work-after-75-celsius/672216/3  
-    https://forums.adafruit.com/viewtopic.php?t=194165  
-    https://forums.adafruit.com/viewtopic.php?p=837610  
-
-
-## Arduino
-
 * John Errington's Experiments
 
     https://skillbank.co.uk/arduino/index.htm  
-
-* PPM Clock accuracy examples
-    
-    https://www.best-microcontroller-projects.com/ppm.html
 
 * Making Arduino timing more precise
     
@@ -224,6 +210,23 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
 * Program new AVR ATtiny214, ATtiny414, ATtiny814
     
     [https://npk-stn.ru/2019/07/19/simple_programming_attiny414_v](https://npk-stn.ru/2019/07/19/simple_programming_attiny414_via_updi/?lang=en)
+
+
+#### Parts
+
+* Fake parts
+    
+    [https://www.diyaudio.com/community/threads/my-transistors-or](https://www.diyaudio.com/community/threads/my-transistors-original-or-copy.82638/page-70)  
+    https://vintage-audio-laser.fr/viewtopic.php?t=3120  
+    [https://www.theregister.com/2022/03/18/eu_us_counterfeit_chi](https://www.theregister.com/2022/03/18/eu_us_counterfeit_chips/)  
+    https://sound-au.com/counterfeit.htm
+
+* Counterfeit DS18B20
+
+    https://github.com/cpetrich/counterfeit_DS18B20  
+    https://forum.arduino.cc/t/ds18b20-stop-work-after-75-celsius/672216/3  
+    https://forums.adafruit.com/viewtopic.php?t=194165  
+    https://forums.adafruit.com/viewtopic.php?p=837610  
 
 
 #### Rotary Encoder
@@ -248,13 +251,6 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     [https://www.codrey.com/arduino-projects/arduino-advanced-16-](https://www.codrey.com/arduino-projects/arduino-advanced-16-bit-pwm/)
 
 
-#### Read/write EEPROM
-
-* Examples
-    
-    https://www.youtube.com/watch?v=Sus96TzvjT4 (Electronoobs)  
-
-
 #### Data exchange
 
 * Send data from Arduino Uno to computer
@@ -273,8 +269,6 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     https://www.youtube.com/watch?v=WITPI79V32k  
 
 
-## Oscillator
-
 #### OCXOs
 
 * Simple OCXOs
@@ -288,8 +282,6 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     [https://www.edaboard.com/threads/interesting-tcxo...](https://www.edaboard.com/threads/interesting-tcxo-32768-hz-oscillator.367294/)  
     https://www.edaboard.com/attachments/32768-hz-jpg.138311/  
 
-
-## Temperature
 
 #### Thermal Conductivities
 

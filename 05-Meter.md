@@ -6,25 +6,11 @@
 
 ---
 
-#### 555 Timer
-
-* Examples
-    
-    https://www.instructables.com/Capacitance-Meter/  
-    [https://www.instructables.com/Capacitance-meter-with-arduino](https://www.instructables.com/Capacitance-meter-with-arduino-and-555-timer/)
-
-
-#### RC Oscillator
-
-* A Digital Capacitance Meter
-    
-    [https://www.nutsvolts.com/magazine/article/a_digital_capacit](https://www.nutsvolts.com/magazine/article/a_digital_capacitance_meter)
-
-
 #### Cap Meter LM311
 
 * High-res Cap Meter
     
+    [http://www.seekic.com/precision_RC_oscillator.html](http://www.seekic.com/circuit_diagram/Electrical_Equipment_Circuit/Low_frequency_precision_RC_oscillator.html)  
     http://www.romanblack.com/onesec/CapMeter.htm  
     [https://www.electro-tech-online.com/threads/...](https://www.electro-tech-online.com/threads/pic-based-high-resolution-cap-meter.119900/)  
 
@@ -34,10 +20,6 @@
 * Arduino-based Digital LC Meter
     
     [https://www.siliconchip.com.au/Issue/2017/...](https://www.siliconchip.com.au/Issue/2017/June/Arduino-based+Digital+Inductance+%2526+Capacitance+Meter?res=nonflash)  
-
-* AVR LC Meter With Frequency Measurement
-    
-    [http://www.kerrywong.com/2010/10/16/avr-lc-meter-with-freque](http://www.kerrywong.com/2010/10/16/avr-lc-meter-with-frequency-measurement/)  
 
 * Open Source LC-Meter
     
