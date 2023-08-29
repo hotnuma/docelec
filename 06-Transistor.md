@@ -12,6 +12,10 @@
     
     [https://www.electronics-notes.com/articles/analogue_circuits](https://www.electronics-notes.com/articles/analogue_circuits/transistor/circuit-types-formats.php)  
 
+* Logic Gates
+    
+    https://makingcircuits.com/blog/how-to-make-logic-inverter-buffer-gates-using-bjts/  
+
 * Types of Transistor amplifiers (w2aew 114)
     
     https://www.youtube.com/watch?v=zXh5gMc6kyU  
@@ -26,7 +30,7 @@
 
 * FET Amplifier Circuits
     
-    https://makingcircuits.com/blog/fet-amplifier-circuits/
+    https://makingcircuits.com/blog/fet-amplifier-circuits/  
 
 * Where Does 26mV Come From in re (The Offset Volt 100) 
     
