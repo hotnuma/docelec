@@ -15,6 +15,7 @@
 * Logic Gates
     
     https://makingcircuits.com/blog/how-to-make-logic-inverter-buffer-gates-using-bjts/  
+    https://electronics.stackexchange.com/questions/120822/  
 
 * Types of Transistor amplifiers (w2aew 114)
     
