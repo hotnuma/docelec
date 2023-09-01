@@ -31,7 +31,6 @@
 
 * Examples
 
-    http://www.bowdenshobbycircuits.info/page11.htm  
     https://www.industrial-electronics.com/393_osc_6.html  
 
 * 32768
