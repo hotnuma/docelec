@@ -165,6 +165,16 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
 
 https://eleshop.fr/test-mesure.html  
 
+* Oscillators
+
+    http://www.evalidate.in/lab3/pages/RO/RO_T.html  
+    https://www.electrical4u.com/relaxation-oscillator/  
+    http://www.interfacebus.com/voltage-comparator-opamp-design.html  
+    [https://www.ti.com/lit/an/snoa998/snoa998.pdf?ts=16653292898](https://www.ti.com/lit/an/snoa998/snoa998.pdf?ts=1665329289834&ref_url=https%253A%252F%252Fwww.google.com%252F)  
+    https://www.electronics-tutorials.com/oscillators/oscillators.htm  
+    https://www.onsemi.com/pub/collateral/and9983-d.pdf  
+    https://www.youtube.com/watch?v=blalAktxFoI (w2aew 123)  
+
 * PPM Clock accuracy examples
     
     https://www.best-microcontroller-projects.com/ppm.html  

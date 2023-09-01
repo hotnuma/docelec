@@ -29,15 +29,12 @@
     https://www.nxp.com/docs/en/application-note/AN2606.pdf  
     https://ebookreading.net/view/book/EB9780750698832_8.html  
 
-* Examples
-
-    https://www.industrial-electronics.com/393_osc_6.html  
-
 * 32768
 
     https://atomsoft.wordpress.com/2010/08/17/32khz-oscillator-reference-signal/  
     [https://softsolder.com/2017/04/07/colpitts-oscillator-at-32-](https://softsolder.com/2017/04/07/colpitts-oscillator-at-32-768-khz/)  
     [https://electronics.stackexchange.com/...](https://electronics.stackexchange.com/questions/299392/)  
+    https://www.industrial-electronics.com/393_osc_6.html  
 
 * CD4060 examples
     
@@ -98,16 +95,5 @@
 
     [https://wiki.analog.com/university/courses/electronics/comms](https://wiki.analog.com/university/courses/electronics/comms-lab-hartley-osc?rev=1553685232)  
     https://learnabout-electronics.org/Oscillators/osc22.php  
-
-
-<!--
-    http://www.evalidate.in/lab3/pages/RO/RO_T.html  
-    https://www.electrical4u.com/relaxation-oscillator/  
-    http://www.interfacebus.com/voltage-comparator-opamp-design.html  
-    [https://www.ti.com/lit/an/snoa998/snoa998.pdf?ts=16653292898](https://www.ti.com/lit/an/snoa998/snoa998.pdf?ts=1665329289834&ref_url=https%253A%252F%252Fwww.google.com%252F)  
-    https://www.electronics-tutorials.com/oscillators/oscillators.htm  
-    https://www.onsemi.com/pub/collateral/and9983-d.pdf  
-    https://www.youtube.com/watch?v=blalAktxFoI (w2aew 123)  
--->
 
 
