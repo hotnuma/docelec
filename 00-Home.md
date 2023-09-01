@@ -12,6 +12,7 @@
     
     https://www.gotronic.fr/  
     https://distri-compo.com/  
+    https://www.komposantselectronik.fr/prestashop/  
     https://csd-electronics.de/  
     https://www.reichelt.com/  
     https://www.az-delivery.de/fr  
