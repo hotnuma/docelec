@@ -20,6 +20,16 @@
     https://ohmslawcalculator.com/555-astable-calculator  
 
 
+#### Pierce Oscillator
+
+* Examples
+
+    [http://www.seekic.com/circuit_diagram/signal_processing/osci](http://www.seekic.com/circuit_diagram/signal_processing/oscillator_circuit/1_mhz_pierce_oscillators.html)  
+    [https://www.eevblog.com/forum/beginners/making-a-crystal-osc](https://www.eevblog.com/forum/beginners/making-a-crystal-oscilator/)  
+    [https://www.eevblog.com/forum/beginners/making-a-crystal-osc](https://www.eevblog.com/forum/beginners/making-a-crystal-oscilator/?action=dlattach;attach=362585;image)  
+    [http://www.next.gr/circuits/crystal-oscillator-discreet-pier](http://www.next.gr/circuits/crystal-oscillator-discreet-pierce-oscillator-l32460.html)  
+
+
 #### Crystal Oscillator
 
 * Basics
@@ -29,7 +39,7 @@
     https://www.nxp.com/docs/en/application-note/AN2606.pdf  
     https://ebookreading.net/view/book/EB9780750698832_8.html  
 
-* 32768
+* 32768 Hz
 
     https://atomsoft.wordpress.com/2010/08/17/32khz-oscillator-reference-signal/  
     [https://softsolder.com/2017/04/07/colpitts-oscillator-at-32-](https://softsolder.com/2017/04/07/colpitts-oscillator-at-32-768-khz/)  
@@ -42,16 +52,6 @@
     http://hackersbench.com/Projects/1Hz/  
     [https://www.sonelec-musique.com/electronique...](https://www.sonelec-musique.com/electronique_realisations_base_temps_001.html)  
     https://electronics.stackexchange.com/questions/547694/  
-
-
-#### Pierce Oscillator
-
-* Examples
-
-    [http://www.seekic.com/circuit_diagram/signal_processing/osci](http://www.seekic.com/circuit_diagram/signal_processing/oscillator_circuit/1_mhz_pierce_oscillators.html)  
-    [https://www.eevblog.com/forum/beginners/making-a-crystal-osc](https://www.eevblog.com/forum/beginners/making-a-crystal-oscilator/)  
-    [https://www.eevblog.com/forum/beginners/making-a-crystal-osc](https://www.eevblog.com/forum/beginners/making-a-crystal-oscilator/?action=dlattach;attach=362585;image)  
-    [http://www.next.gr/circuits/crystal-oscillator-discreet-pier](http://www.next.gr/circuits/crystal-oscillator-discreet-pierce-oscillator-l32460.html)  
 
 
 #### Colpitts
