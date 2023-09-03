@@ -97,3 +97,22 @@
     https://learnabout-electronics.org/Oscillators/osc22.php  
 
 
+#### Varicap
+
+* Varicap - Wikipedia
+    
+    https://en.wikipedia.org/wiki/Varicap  
+
+* Varicap diode #question - Page 1
+    
+    [https://www.eevblog.com/forum/beginners/varicap-diode-questi](https://www.eevblog.com/forum/beginners/varicap-diode-question/)  
+
+* VCO using 1N4007 diodes as varicap
+    
+    https://www.youtube.com/watch?v=Sz0-cUxC2NI  
+
+* 1N4004 vs MV209 Tuning Range
+    
+    [https://groups.io/g/qrp-tech/topic/6523696?p=Created,,,20,2,](https://groups.io/g/qrp-tech/topic/6523696?p=Created,,,20,2,0,0::,,,0,0,0,6523696)  
+
+

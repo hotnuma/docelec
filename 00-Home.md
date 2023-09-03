@@ -78,4 +78,8 @@
     
     https://www.youtube.com/watch?v=ieAhBejHe2M  
 
+* Falling and Rasing Edge Detector
+    
+    [https://electronics.stackexchange.com/questions/270089/falli](https://electronics.stackexchange.com/questions/270089/falling-and-rasing-edge-detector)  
+
 

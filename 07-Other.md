@@ -163,7 +163,13 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
 
 <!--
 
-https://eleshop.fr/test-mesure.html  
+* circuit-integre - SAS Electronic Loisirs Angers Sono Angers Music Store
+    
+    [https://electronicloisirs.com/1399-circuit-integre?id_catego](https://electronicloisirs.com/1399-circuit-integre?id_category=1399&n=1264)  
+
+* Eleshop
+    
+    https://eleshop.fr/test-mesure.html  
 
 * Oscillators
 

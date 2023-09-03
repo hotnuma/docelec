@@ -35,6 +35,10 @@
 
 #### Display
 
+* OLED SSD1306
+
+    https://www.arduino.cc/reference/en/libraries/ssd1306/  
+
 * LCD I2C
     
     https://www.makerguides.com/character-i2c-lcd-arduino-tutorial/  
@@ -125,6 +129,10 @@
 
 
 #### Other
+
+*  Arduino digital input protection
+    
+    [https://forum.arduino.cc/t/protection-for-12v-signal-into-ar](https://forum.arduino.cc/t/protection-for-12v-signal-into-arduino-digital-input/563113)  
 
 * Inline Functions
     
