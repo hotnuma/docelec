@@ -16,7 +16,7 @@
     [https://www.nutsvolts.com/magazine/article/a_digital_capacit](https://www.nutsvolts.com/magazine/article/a_digital_capacitance_meter)  
 
 
-#### Arduino LC Meter
+#### LC Meter with Arduino
 
 * Arduino-based Digital LC Meter
     
@@ -28,7 +28,7 @@
     https://www.youtube.com/watch?v=KhJiE4gL5T4  
 
 
-#### PIC LC Meter
+#### LC Meter with PIC
 
 * AADE L/C Meter IIB manual
     
@@ -45,5 +45,16 @@
 * LCR-Repository
     
     http://kripton2035.free.fr/lcr-repository.html  
+
+
+#### ESR Meter
+
+* 5 Transistor ESR Meter Design
+    
+    https://www.eevblog.com/forum/projects/5-transistor-esr-meter-design/  
+
+* Transistor ESR meter - VE7IT
+    
+    https://ve7it.cowlug.org/esrmeter.html  
 
 
