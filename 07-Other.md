@@ -185,15 +185,15 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
     
     https://www.best-microcontroller-projects.com/ppm.html  
 
-* 555 Timer
-    
-    https://www.instructables.com/Capacitance-Meter/  
-    [https://www.instructables.com/Capacitance-meter-with-arduino](https://www.instructables.com/Capacitance-meter-with-arduino-and-555-timer/)
-    https://www.electrical4u.com/capacitance-meter/  
-
 * Use Analog Techniques To Measure Capacitance
     
     [https://www.electronicdesign.com/technologies/analog/article](https://www.electronicdesign.com/technologies/analog/article/21796004/use-analog-techniques-to-measure-capacitance-in-capacitive-sensors)  
+
+* 555 Timer
+    
+    https://www.instructables.com/Capacitance-Meter/  
+    [https://www.instructables.com/Capacitance-meter-with-arduino](https://www.instructables.com/Capacitance-meter-with-arduino-and-555-timer/)  
+    https://www.electrical4u.com/capacitance-meter/  
 
 * AVR LC Meter With Frequency Measurement
     

@@ -6,9 +6,9 @@
 
 ---
 
-#### Cap Meter LM311
+#### Cap Meter
 
-* High-res Cap Meter
+* LM311 High-res Cap Meter
     
     [http://www.seekic.com/precision_RC_oscillator.html](http://www.seekic.com/circuit_diagram/Electrical_Equipment_Circuit/Low_frequency_precision_RC_oscillator.html)  
     http://www.romanblack.com/onesec/CapMeter.htm  
