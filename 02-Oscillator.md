@@ -16,6 +16,8 @@
 
 * 555 Astable
     
+    [555_Astable_Diagram.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/555_Astable_Diagram.svg/528px-555_Astable_Diagram.svg.png)  
+    https://en.wikipedia.org/wiki/555_timer_IC  
     [https://www.electronics-tutorials.ws/waveforms/...](https://www.electronics-tutorials.ws/waveforms/555_oscillator.html)  
     https://electronics.stackexchange.com/questions/269594/  
 
