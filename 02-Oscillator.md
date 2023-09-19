@@ -17,7 +17,7 @@
 * 555 Astable
     
     [https://www.electronics-tutorials.ws/waveforms/...](https://www.electronics-tutorials.ws/waveforms/555_oscillator.html)  
-    https://ohmslawcalculator.com/555-astable-calculator  
+    https://electronics.stackexchange.com/questions/269594/  
 
 
 #### Pierce Oscillator
