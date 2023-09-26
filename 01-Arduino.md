@@ -25,7 +25,11 @@
 
 * Install Arduino IDE
     
-    https://www.arduino.cc/en/Guide/Linux
+    https://www.arduino.cc/en/Guide/Linux  
+    
+* Install CLI
+    
+    `sudo apt-get install gcc-avr avr-libc avrdude`
 
 * Installing Libraries
     
