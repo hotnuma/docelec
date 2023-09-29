@@ -52,6 +52,7 @@
 * 5 Transistor ESR Meter Design
     
     https://www.eevblog.com/forum/projects/5-transistor-esr-meter-design/  
+    [schematic](https://www.eevblog.com/forum/projects/5-transistor-esr-meter-design/?action=dlattach;attach=37892;image)  
 
 * Transistor ESR meter - VE7IT
     
