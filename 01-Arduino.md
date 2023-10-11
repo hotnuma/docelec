@@ -27,9 +27,11 @@
     
     https://www.arduino.cc/en/Guide/Linux  
     
+    extract the archive, cd to the created directory and run `sudo sh install.sh`
+    
 * Install CLI
     
-    `sudo apt-get install gcc-avr avr-libc avrdude`
+    `sudo apt install gcc-avr avr-libc avrdude`
 
 * Installing Libraries
     
