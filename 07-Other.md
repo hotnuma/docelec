@@ -163,6 +163,10 @@ https://www.arduino.cc/reference/en/libraries/simplekalmanfilter/
 
 <!--
 
+* Capacitor ESR meter
+    
+    https://ve7it.cowlug.org/esrmeter.html  
+
 * circuit-integre - SAS Electronic Loisirs Angers Sono Angers Music Store
     
     [https://electronicloisirs.com/1399-circuit-integre?id_catego](https://electronicloisirs.com/1399-circuit-integre?id_category=1399&n=1264)  

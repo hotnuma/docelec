@@ -6,6 +6,14 @@
 
 ---
 
+#### ESR Meter
+
+* 5 Transistor ESR Meter Design
+    
+    https://www.eevblog.com/forum/projects/5-transistor-esr-meter-design/  
+    [schematic](https://www.eevblog.com/forum/projects/5-transistor-esr-meter-design/?action=dlattach;attach=37892;image)  
+
+
 #### Cap Meter
 
 * LM311 High-res Cap Meter
@@ -45,17 +53,5 @@
 * LCR-Repository
     
     http://kripton2035.free.fr/lcr-repository.html  
-
-
-#### ESR Meter
-
-* 5 Transistor ESR Meter Design
-    
-    https://www.eevblog.com/forum/projects/5-transistor-esr-meter-design/  
-    [schematic](https://www.eevblog.com/forum/projects/5-transistor-esr-meter-design/?action=dlattach;attach=37892;image)  
-
-* Transistor ESR meter - VE7IT
-    
-    https://ve7it.cowlug.org/esrmeter.html  
 
 
