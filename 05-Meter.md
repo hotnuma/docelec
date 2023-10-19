@@ -14,6 +14,13 @@
     [schematic](https://www.eevblog.com/forum/projects/5-transistor-esr-meter-design/?action=dlattach;attach=37892;image)  
 
 
+#### CTester
+
+* $20 LCR ESR
+    
+    [https://www.eevblog.com/forum/testgear/$20-lcr-esr-transisto](https://www.eevblog.com/forum/testgear/$20-lcr-esr-transistor-checker-project/8050/)  
+
+
 #### Cap Meter
 
 * LM311 High-res Cap Meter
